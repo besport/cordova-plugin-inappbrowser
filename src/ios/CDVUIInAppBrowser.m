@@ -17,6 +17,8 @@
  under the License.
  */
 
+#define WK_WEB_VIEW_ONLY 1
+
 #if !WK_WEB_VIEW_ONLY
 
 #import "CDVUIInAppBrowser.h"
